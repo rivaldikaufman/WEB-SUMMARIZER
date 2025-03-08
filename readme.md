@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 
 ### 4️⃣ **Konfigurasi API Token**
-Buka file `main.py` dan ganti:
+Buka file `sumbot.py` dan ganti:
 ```python
 BOT_TOKEN = "YOUR BOTFATHER TOKEN"
 GEMINI_API_KEY = "YOUR GEMINI API"
@@ -56,7 +56,7 @@ Dengan token bot Telegram dan API Key Gemini milikmu.
 
 ### 5️⃣ **Jalankan Bot**
 ```bash
-python main.py
+python sumbot.py
 ```
 
 ## 📌 Cara Menggunakan
