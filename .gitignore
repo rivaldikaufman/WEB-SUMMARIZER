@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm files
+.idea/
+bot.py
+
+# Python cache & logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Credentials (jika ada)
+config.json
