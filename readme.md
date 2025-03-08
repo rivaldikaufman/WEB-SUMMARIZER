@@ -1,5 +1,14 @@
 # 📜 Telegram Article Summarizer Bot
 
+## 🚀 Teknologi yang Digunakan
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="60"/>
+  <img src="https://dicksonneoh.com/portfolio/deploy_gpt_hf_models_on_telegram/botfather_img.png" alt="Gemini" height="" width="60"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" alt="Gemini" height="" width="60"/>
+</p>
+
 ## 🚀 Deskripsi
 Bot Telegram ini memungkinkan pengguna untuk merangkum artikel secara otomatis hanya dengan mengirimkan link artikel. Bot menggunakan model AI **Gemini** untuk menghasilkan ringkasan dengan berbagai pilihan bahasa dan gaya bahasa.
 
